@@ -1,6 +1,7 @@
 # House Selling and Buying Tracking System
 
-A user trying to buy or sell a house, can easily do so using our application.
+Welcome! A hassle-free buying and selling of Real Estate made possible with our application. Do try it! :)
+###### https://mysterious-temple-73036.herokuapp.com/login
 
 ## Admin Username and Password (Please delete browser cookies)
 ###### Username - admin@ncsu.edu
