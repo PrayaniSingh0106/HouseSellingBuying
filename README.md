@@ -34,7 +34,7 @@ rake db:seed
 ![List Companies](https://mysterious-temple-73036.herokuapp.com/ListCompanies.png)
 
 * They can go to List Houses to view existing listed houses and further to New House to add a new house.
-![List Houses](https://mysterious-temple-73036.herokuapp.com/ListHouse.png)
+[List Houses](https://mysterious-temple-73036.herokuapp.com/ListHouse.png)
 
 * They can view all inquiries that have been asked by any buyer and also the replies by going to House Inquiries -> View Replies.
 ![View Inquiries](https://mysterious-temple-73036.herokuapp.com/ViewInquiries.png)
